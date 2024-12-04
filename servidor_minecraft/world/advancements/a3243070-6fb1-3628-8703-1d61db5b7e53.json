@@ -327,6 +327,7 @@
       "cooked_mutton": "2024-11-07 02:48:09 +0000",
       "sweet_berries": "2024-11-04 20:46:41 +0000",
       "cooked_beef": "2024-11-10 01:32:22 +0000",
+      "baked_potato": "2024-12-04 18:17:48 +0000",
       "golden_carrot": "2024-11-09 18:46:39 +0000",
       "carrot": "2024-11-06 00:25:18 +0000"
     },
@@ -3932,6 +3933,36 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-11-12 01:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2024-12-04 18:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-04 18:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2024-12-04 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2024-12-04 18:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-04 18:14:58 +0000"
     },
     "done": true
   },
