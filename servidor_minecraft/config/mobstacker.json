@@ -1,0 +1,15 @@
+{
+  "killWholeStackOnDeath": false,
+  "stackHealth": false,
+  "maxMobStackSize": 16,
+  "stackRadius": 6.0,
+  "enableSeparator": false,
+  "consumeSeparator": true,
+  "separatorItem": "minecraft:diamond",
+  "ignoredEntities": [
+    "minecraft:ender_dragon"
+  ],
+  "ignoredMods": [
+    "corpse"
+  ]
+}

@@ -1,0 +1,169 @@
+[14:12:31] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.9
+[14:12:31] [main/INFO]: Loading 93 mods:
+	- almanac 1.0.2
+	- alternate-current 1.9.0
+	- cardinal-components 6.1.1
+	   |-- cardinal-components-base 6.1.1
+	   |-- cardinal-components-block 6.1.1
+	   |-- cardinal-components-chunk 6.1.1
+	   |-- cardinal-components-entity 6.1.1
+	   |-- cardinal-components-item 6.1.1
+	   |-- cardinal-components-level 6.1.1
+	   |-- cardinal-components-scoreboard 6.1.1
+	   \-- cardinal-components-world 6.1.1
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- clumps 19.0.0.1
+	- entityculling 1.7.0
+	- fabric-api 0.107.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.69+b559734419
+	   |-- fabric-biome-api-v1 13.0.30+be1ed2d719
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.17+b559734419
+	   |-- fabric-convention-tags-v1 2.1.1+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.9.1+7fd4837519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.2.0+e49211d819
+	   |-- fabric-data-generation-api-v1 20.2.22+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.4.0+0f6c53cd19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.13+6508971219
+	   |-- fabric-registry-sync-v0 5.1.3+60c3209b19
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.87+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.1+95bead5f19
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+1daea21519
+	- fabric-language-kotlin 1.12.3+kotlin.2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- ferritecore 7.0.0
+	- fishingrodfix 1.21-0.3
+	- fzzy_config 0.5.4+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- java 21
+	- jei 19.19.6.233
+	- letmedespawn 1.4.4
+	- lithium 0.13.1
+	- minecraft 1.21.1
+	- modernfix 5.19.3+mc1.21.1
+	- placeholder-api 2.4.1+1.21
+	- sodiumleafculling 1.0.0
+	- teamaddoners 2.0.0
+	- travelersbackpack 10.1.3
+	- yet_another_config_lib_v3 3.5.0+1.21-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.10.0
+	   |-- com_twelvemonkeys_common_common-io 3.10.0
+	   |-- com_twelvemonkeys_common_common-lang 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[14:12:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SV-TECNICO/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:12:32] [main/INFO]: Compatibility level set to JAVA_21
+[14:12:32] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 1 override(s) found
+[14:12:32] [main/INFO]: Loaded configuration file for ModernFix 5.19.3+mc1.21.1: 54 options available, 0 override(s) found
+[14:12:32] [main/INFO]: Applying Nashorn fix
+[14:12:33] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[14:12:33] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext)
+[14:12:33] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.frapi.render.AbstractBlockRenderContext was not found mixins.sodiumleafculling.json:AbstractBlockRenderContextAccessor from mod sodiumleafculling
+[14:12:33] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
+[14:12:33] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache was not found mixins.sodiumleafculling.json:BlockOcclusionCacheMixin from mod sodiumleafculling
+[14:12:33] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
+[14:12:33] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer was not found mixins.sodiumleafculling.json:BlockRendererMixin from mod sodiumleafculling
+[14:12:33] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings)
+[14:12:33] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptions$PerformanceSettings was not found mixins.sodiumleafculling.json:PerformanceSettingsMixin from mod sodiumleafculling
+[14:12:33] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages)
+[14:12:33] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptionPages was not found mixins.sodiumleafculling.json:SodiumGameOptionPagesMixin from mod sodiumleafculling
+[14:12:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:12:37] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[14:12:37] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[14:12:37] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[14:12:38] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[14:12:42] [main/INFO]: Vanilla bootstrap took 7201 milliseconds
+[14:12:43] [main/INFO]: [STDOUT]: Team Addoners Initializing
+[14:12:43] [main/ERROR]: No data fixer registered for 
+[14:12:43] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[14:12:43] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[14:12:43] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[14:12:43] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[14:12:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:12:47] [main/INFO]: Loaded 1415 recipes
+[14:12:47] [main/INFO]: Loaded 1524 advancements
+[14:12:48] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.421 ms
+[14:12:48] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:12:48] [Server thread/INFO]: Loading properties
+[14:12:48] [Server thread/INFO]: Default game type: SURVIVAL
+[14:12:48] [Server thread/INFO]: Generating keypair
+[14:12:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:12:48] [Server thread/INFO]: Using epoll channel type
+[14:12:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:12:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:12:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:12:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:12:48] [Server thread/INFO]: Preparing level "world"
+[14:12:49] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[14:12:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:12:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:12:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:12:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:12:50] [Server thread/INFO]: Time elapsed: 1555 ms
+[14:12:50] [Server thread/INFO]: Done (2.245s)! For help, type "help"
+[14:12:50] [Server thread/WARN]: Dedicated server took 21.536 seconds to load
+[14:13:07] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:51929] logged in with entity id 20 at (3914.903145384362, 89.0, -138.8921352264602)
+[14:13:07] [Server thread/INFO]: Loading config from file...
+[14:13:07] [Server thread/INFO]: CreeperHunte2068 joined the game
+[14:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[14:13:22] [Server thread/INFO]: [Not Secure] <CreeperHunte2068> hola
+[14:13:31] [Server thread/INFO]: [Not Secure] <CreeperHunte2068> hola
+[14:14:53] [Server thread/INFO]: [Not Secure] <CreeperHunte2068> hola
+[14:32:54] [Server thread/WARN]: CreeperHunte2068 moved too quickly! -8.36532247849209,-1.8207843194614526,16.157363844553714
+[14:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[14:37:49] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[14:37:49] [Server thread/INFO]: CreeperHunte2068 left the game
