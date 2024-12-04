@@ -163,3 +163,16 @@
 [17:47:30] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:54340] logged in with entity id 1248 at (3898.301509340332, 62.0, -160.9565145233244)
 [17:47:30] [Server thread/INFO]: Loading config from file...
 [17:47:30] [Server thread/INFO]: CreeperHunte2068 joined the game
+[17:58:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@59080814[id=a3243070-6fb1-3628-8703-1d61db5b7e53,name=XxchipafresaxX,properties={}] lost connection: Disconnected
+[17:58:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@d0a6108[id=a3243070-6fb1-3628-8703-1d61db5b7e53,name=XxchipafresaxX,properties={}] lost connection: Disconnected
+[18:01:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@2585d1ac[id=a3243070-6fb1-3628-8703-1d61db5b7e53,name=XxchipafresaxX,properties={}] lost connection: Disconnected
+[18:04:24] [Server thread/INFO]: XxchipafresaxX[/100.125.233.123:60644] logged in with entity id 10567 at (3918.9053762465005, 74.5625, -174.6104192543805)
+[18:04:24] [Server thread/INFO]: Loading config from file...
+[18:04:24] [Server thread/INFO]: XxchipafresaxX joined the game
+[18:07:37] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to XxchipafresaxX]
+[18:08:02] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to XxchipafresaxX]
+[18:08:22] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Spectator Mode]
+[18:08:39] [Server thread/INFO]: CreeperHunte2068 has made the advancement [Minecraft: Trial(s) Edition]
+[18:08:54] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Survival Mode]
+[18:08:58] [Server thread/INFO]: [CreeperHunte2068: Teleported XxchipafresaxX to CreeperHunte2068]
+[18:10:57] [Server thread/INFO]: CreeperHunte2068 has made the advancement [Under Lock and Key]
