@@ -202,3 +202,10 @@
 [18:28:31] [Server thread/INFO]: Villager class_1646['Villager'/19542, l='ServerLevel[world]', x=3915.70, y=70.82, z=-173.83] died, message: 'Villager was squished too much'
 [18:33:12] [Server thread/WARN]: XxchipafresaxX moved wrongly!
 [18:36:00] [Server thread/INFO]: Villager class_1646['Cartographer'/19516, l='ServerLevel[world]', x=3942.69, y=75.00, z=-158.31] died, message: 'Cartographer was slain by XxchipafresaxX'
+[18:37:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3920, y=78, z=-164} class_2338{x=3941, y=75, z=-159}
+[18:40:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3941, y=74, z=-165} class_2338{x=3940, y=75, z=-167}
+[18:41:25] [Server thread/INFO]: Villager class_1646['Villager'/19523, l='ServerLevel[world]', x=3932.50, y=72.06, z=-161.05] died, message: 'Villager was slain by CreeperHunte2068'
+[18:44:47] [Server thread/INFO]: [Not Secure] <XxchipafresaxX> 3902.39 -480.12
+[18:45:29] [Server thread/INFO]: XxchipafresaxX fell from a high place
+[18:45:29] [Server thread/INFO]: Created new backpack backup file for XxchipafresaxX with unique ID travelersbackpack.standard_05.12.2024-18.45.29.dat
+[18:45:29] [Server thread/INFO]: Your backpack has been placed at X: 3888 Y: 12 Z: -486
