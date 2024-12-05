@@ -235,3 +235,17 @@
 [19:03:41] [Server thread/INFO]: Loading config from file...
 [19:03:41] [Server thread/INFO]: XxchipafresaxX joined the game
 [19:16:22] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to XxchipafresaxX]
+[19:19:00] [Server thread/INFO]: [CreeperHunte2068: Teleported XxchipafresaxX to 2928.500000, 72.000000, 608.500000]
+[19:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[19:19:08] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to XxchipafresaxX]
+[19:19:54] [Server thread/INFO]: [Not Secure] <XxchipafresaxX> dormii hid puta{
+[19:20:14] [Server thread/INFO]: Villager class_1646['Villager'/76187, l='ServerLevel[world]', x=2935.85, y=69.00, z=653.09] died, message: 'Villager was burned to a crisp while fighting Zombie Villager'
+[19:20:18] [Server thread/INFO]: Villager class_1646['Nitwit'/76180, l='ServerLevel[world]', x=2941.87, y=73.00, z=583.58] died, message: 'Nitwit burned to death'
+[19:22:00] [Server thread/INFO]: Villager class_1646['Farmer'/76207, l='ServerLevel[world]', x=2922.79, y=69.00, z=606.74] died, message: 'Farmer was slain by CreeperHunte2068'
+[19:22:09] [Server thread/INFO]: Villager class_1646['Mason'/76186, l='ServerLevel[world]', x=2929.28, y=70.00, z=614.30] died, message: 'Mason was slain by CreeperHunte2068'
+[19:22:24] [Server thread/WARN]: Trying to set block entity net.minecraft.class_8174@72f5616d at position class_2338{x=3525, y=53, z=981}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[19:28:18] [Server thread/INFO]: Villager class_1646['Nitwit'/76206, l='ServerLevel[world]', x=2937.21, y=71.18, z=583.64] died, message: 'Nitwit was slain by Vindicator'
+[19:34:36] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 3924.500000, 72.000000, -156.500000]
+[19:34:45] [Server thread/INFO]: [CreeperHunte2068: Teleported XxchipafresaxX to CreeperHunte2068]
+[19:35:45] [Server thread/INFO]: [Not Secure] <XxchipafresaxX> soi geyyy
+[19:37:12] [Server thread/WARN]: XxchipafresaxX moved wrongly!

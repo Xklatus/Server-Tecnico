@@ -21,12 +21,14 @@
       "minecraft:cherry_grove": "2024-11-04 20:19:57 +0000",
       "minecraft:sunflower_plains": "2024-11-04 20:37:12 +0000",
       "minecraft:birch_forest": "2024-11-04 20:48:20 +0000",
+      "minecraft:snowy_beach": "2024-12-05 19:27:02 +0000",
       "minecraft:bamboo_jungle": "2024-11-11 03:51:27 +0000",
       "minecraft:flower_forest": "2024-11-04 20:35:52 +0000",
       "minecraft:beach": "2024-11-07 02:30:19 +0000",
       "minecraft:dark_forest": "2024-11-04 20:56:21 +0000",
       "minecraft:river": "2024-11-03 23:39:57 +0000",
       "minecraft:stony_shore": "2024-11-04 20:49:12 +0000",
+      "minecraft:snowy_plains": "2024-12-05 19:19:09 +0000",
       "minecraft:snowy_taiga": "2024-11-21 13:47:04 +0000",
       "minecraft:dripstone_caves": "2024-12-05 18:51:30 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-04 20:49:05 +0000",
@@ -4648,6 +4650,24 @@
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2024-12-05 18:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-05 19:22:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-05 19:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-05 19:22:52 +0000"
     },
     "done": true
   },
