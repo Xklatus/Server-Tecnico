@@ -172,3 +172,12 @@
 [20:00:57] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 2928.500000, 72.000000, 608.500000]
 [20:01:02] [Server thread/INFO]: CreeperHunte2068 was slain by Vindicator
 [20:01:05] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 2928.500000, 72.000000, 608.500000]
+[20:05:37] [Server thread/INFO]: CreeperHunte2068 lost connection: Timed out
+[20:05:37] [Server thread/INFO]: CreeperHunte2068 left the game
+[20:05:37] [Server thread/WARN]: handleDisconnection() called twice
+[20:06:04] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:51159] logged in with entity id 20573 at (2929.800538352338, 70.0, 545.3953111318145)
+[20:06:04] [Server thread/INFO]: Loading config from file...
+[20:06:04] [Server thread/INFO]: CreeperHunte2068 joined the game
+[20:06:57] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 3924.500000, 72.000000, -156.500000]
+[20:12:11] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[20:12:11] [Server thread/INFO]: CreeperHunte2068 left the game
