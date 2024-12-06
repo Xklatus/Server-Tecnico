@@ -166,3 +166,9 @@
 [19:33:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3866, y=63, z=26} class_2338{x=3867, y=63, z=24}
 [19:33:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3866, y=63, z=26} class_2338{x=3867, y=63, z=24}
 [19:42:55] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 2928.500000, 72.000000, 608.500000]
+[20:00:48] [Server thread/INFO]: CreeperHunte2068 was slain by Ravager
+[20:00:48] [Server thread/INFO]: Created new backpack backup file for CreeperHunte2068 with unique ID travelersbackpack.standard_06.12.2024-20.00.48.dat
+[20:00:48] [Server thread/INFO]: Your backpack has been placed at X: 2921 Y: 62 Z: 633
+[20:00:57] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 2928.500000, 72.000000, 608.500000]
+[20:01:02] [Server thread/INFO]: CreeperHunte2068 was slain by Vindicator
+[20:01:05] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 2928.500000, 72.000000, 608.500000]
