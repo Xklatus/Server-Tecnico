@@ -168,3 +168,24 @@
 [16:22:58] [Server thread/INFO]: Loading config from file...
 [16:22:58] [Server thread/INFO]: CreeperHunte2068 joined the game
 [16:31:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3855, y=-11, z=-46} class_2338{x=3856, y=-12, z=-46}
+[16:57:12] [Server thread/INFO]: Villager class_1646['Villager'/474, l='ServerLevel[world]', x=3915.30, y=70.77, z=-177.70] died, message: 'Villager was slain by CreeperHunte2068'
+[16:57:14] [Server thread/INFO]: Villager class_1646['Villager'/394, l='ServerLevel[world]', x=3915.70, y=70.80, z=-177.70] died, message: 'Villager was slain by CreeperHunte2068'
+[16:57:15] [Server thread/INFO]: Villager class_1646['Villager'/478, l='ServerLevel[world]', x=3915.70, y=70.50, z=-177.70] died, message: 'Villager was slain by CreeperHunte2068'
+[16:57:16] [Server thread/INFO]: Villager class_1646['Villager'/476, l='ServerLevel[world]', x=3915.56, y=70.62, z=-176.95] died, message: 'Villager was slain by CreeperHunte2068'
+[16:57:18] [Server thread/INFO]: Villager class_1646['Villager'/475, l='ServerLevel[world]', x=3915.58, y=70.49, z=-176.67] died, message: 'Villager was slain by CreeperHunte2068'
+[16:57:19] [Server thread/INFO]: Villager class_1646['Villager'/473, l='ServerLevel[world]', x=3915.70, y=70.54, z=-176.70] died, message: 'Villager was slain by CreeperHunte2068'
+[16:57:19] [Server thread/INFO]: Villager class_1646['Villager'/393, l='ServerLevel[world]', x=3915.70, y=71.05, z=-177.70] died, message: 'Villager was slain by CreeperHunte2068'
+[16:57:20] [Server thread/INFO]: Villager class_1646['Villager'/391, l='ServerLevel[world]', x=3915.69, y=70.39, z=-176.98] died, message: 'Villager was slain by CreeperHunte2068'
+[16:58:55] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[16:58:55] [Server thread/INFO]: CreeperHunte2068 left the game
+[16:59:03] [Server thread/INFO]: Stopping the server
+[16:59:03] [Server thread/INFO]: Stopping server
+[16:59:03] [Server thread/INFO]: Saving players
+[16:59:03] [Server thread/INFO]: Saving worlds
+[16:59:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:59:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:59:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:59:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
