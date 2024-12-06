@@ -164,3 +164,6 @@
 [14:08:01] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:51279] logged in with entity id 31 at (3918.940778279776, 73.0, -186.64560693839175)
 [14:08:01] [Server thread/INFO]: Loading config from file...
 [14:08:01] [Server thread/INFO]: CreeperHunte2068 joined the game
+[15:12:06] [Server thread/INFO]: CreeperHunte2068 lost connection: Timed out
+[15:12:06] [Server thread/INFO]: CreeperHunte2068 left the game
+[15:12:06] [Server thread/WARN]: handleDisconnection() called twice
