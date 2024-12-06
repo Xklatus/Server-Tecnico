@@ -167,3 +167,4 @@
 [16:22:58] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:56617] logged in with entity id 31 at (3884.454459431696, 200.0, 128.69999998807907)
 [16:22:58] [Server thread/INFO]: Loading config from file...
 [16:22:58] [Server thread/INFO]: CreeperHunte2068 joined the game
+[16:31:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3855, y=-11, z=-46} class_2338{x=3856, y=-12, z=-46}
