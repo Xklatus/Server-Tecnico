@@ -211,3 +211,5 @@
 [18:05:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3889, y=82, z=-186} class_2338{x=3889, y=79, z=-187}
 [18:05:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3888, y=82, z=-187} class_2338{x=3888, y=80, z=-187}
 [18:11:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3891, y=73, z=-184} class_2338{x=3891, y=73, z=-187}
+[18:23:12] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[18:23:12] [Server thread/INFO]: CreeperHunte2068 left the game
