@@ -159,3 +159,32 @@
 [17:22:32] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:52948] logged in with entity id 32 at (3911.3016430626003, 71.0, -187.34393643018242)
 [17:22:32] [Server thread/INFO]: Loading config from file...
 [17:22:32] [Server thread/INFO]: CreeperHunte2068 joined the game
+[17:36:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3900, y=87, z=-150} class_2338{x=3900, y=86, z=-151}
+[17:36:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3900, y=87, z=-150} class_2338{x=3900, y=86, z=-151}
+[17:36:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3900, y=87, z=-150} class_2338{x=3900, y=86, z=-151}
+[17:36:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3891, y=88, z=-145} class_2338{x=3895, y=87, z=-145}
+[17:36:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3891, y=88, z=-145} class_2338{x=3893, y=86, z=-145}
+[17:37:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=83, z=-164} class_2338{x=3901, y=83, z=-163}
+[17:37:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=83, z=-164} class_2338{x=3901, y=83, z=-163}
+[17:37:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=83, z=-164} class_2338{x=3901, y=83, z=-163}
+[17:37:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=83, z=-164} class_2338{x=3901, y=83, z=-163}
+[17:37:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=83, z=-164} class_2338{x=3901, y=83, z=-163}
+[17:37:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=83, z=-164} class_2338{x=3901, y=83, z=-163}
+[17:38:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3889, y=82, z=-161} class_2338{x=3890, y=82, z=-159}
+[17:38:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3890, y=80, z=-168} class_2338{x=3889, y=79, z=-166}
+[17:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3889, y=85, z=-176} class_2338{x=3888, y=82, z=-176}
+[17:39:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=81, z=-155} class_2338{x=3902, y=81, z=-158}
+[17:40:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3898, y=83, z=-151} class_2338{x=3902, y=81, z=-158}
+[17:40:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3898, y=83, z=-151} class_2338{x=3902, y=81, z=-158}
+[17:40:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3898, y=83, z=-151} class_2338{x=3902, y=81, z=-158}
+[17:40:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3894, y=82, z=-161} class_2338{x=3894, y=82, z=-160}
+[17:40:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3891, y=82, z=-160} class_2338{x=3888, y=81, z=-152}
+[17:40:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3891, y=82, z=-160} class_2338{x=3888, y=81, z=-152}
+[17:40:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3889, y=80, z=-160} class_2338{x=3889, y=80, z=-159}
+[17:40:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3901, y=80, z=-160} class_2338{x=3903, y=80, z=-160}
+[17:40:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3902, y=81, z=-160} class_2338{x=3901, y=81, z=-161}
+[17:41:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3897, y=81, z=-149} class_2338{x=3896, y=80, z=-149}
+[17:41:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3897, y=81, z=-149} class_2338{x=3896, y=80, z=-149}
+[17:41:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3897, y=81, z=-149} class_2338{x=3896, y=80, z=-149}
+[17:41:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3897, y=81, z=-149} class_2338{x=3896, y=80, z=-149}
+[17:41:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3897, y=81, z=-149} class_2338{x=3896, y=80, z=-149}
