@@ -168,3 +168,8 @@
 [18:52:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3898, y=68, z=-194} class_2338{x=3896, y=68, z=-197}
 [18:53:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3894, y=70, z=-195} class_2338{x=3893, y=73, z=-190}
 [18:53:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3889, y=73, z=-191} class_2338{x=3891, y=72, z=-192}
+[19:10:43] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 2928.500000, 72.000000, 608.500000]
+[19:14:35] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Spectator Mode]
+[19:15:07] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Survival Mode]
+[19:15:15] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Spectator Mode]
+[19:15:23] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Survival Mode]
