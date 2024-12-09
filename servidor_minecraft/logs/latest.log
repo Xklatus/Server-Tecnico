@@ -166,3 +166,7 @@
 [17:39:49] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to XxchipafresaxX]
 [17:44:42] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 3908.500000, 80.000000, -143.500000]
 [17:45:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3908, y=71, z=-145} class_2338{x=3908, y=64, z=-145}
+[18:01:11] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[18:01:11] [Server thread/INFO]: CreeperHunte2068 left the game
+[18:01:12] [Server thread/INFO]: XxchipafresaxX lost connection: Disconnected
+[18:01:12] [Server thread/INFO]: XxchipafresaxX left the game
